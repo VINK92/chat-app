@@ -1,6 +1,6 @@
 # React Chat Application
 
-Live site - <https://react-chat-page.netlify.app>
+Live site - 
 
 ![React Chat Application](./client/image/chat-app.png)
 
